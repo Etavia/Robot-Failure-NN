@@ -3,4 +3,4 @@ This code is about robot execution failures using neural networks classification
 
 Neural network code is based on example by Dr. Michael J. Garbade. Example can be found in: https://www.kdnuggets.com/2018/10/simple-neural-network-python.html
 
-Free dataset used in this project was downloaded from University of California Irvine Machine Learning Re-pository. https://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
+Free dataset used in this project was downloaded from University of California Irvine Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
